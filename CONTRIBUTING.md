@@ -1,4 +1,4 @@
-# Contributing
+
 
 Hi there! We're thrilled that you'd like to contribute to GCM :tada:. Your help
 is essential for keeping it great.
